@@ -1,19 +1,112 @@
-# 💫 About Me:
-🚀 I’m currently building AIIntern — an agentic AI-powered internship recommendation system<br>🤝 I’m looking to collaborate on AI/ML projects, full-stack apps, and real-world problem-solving systems<br>🧠 I’m looking for help with scaling AI systems, advanced ML concepts, and production-level architectures<br>📚 I’m currently learning Machine Learning, Agentic AI, and system design<br>💬 Ask me about AI projects, APIs, web scraping, and full-stack development<br>⚡ Fun fact: I don’t just learn tech — I build things that actually solve problems<br># 🛠️ Tech Stack & Skills<br><br>- 💻 Languages: Python, JavaScript<br>- 🌐 Frontend: React, Vite<br>- ⚙️ Backend: Node.js / Express (or whatever you're using)<br>- 🗄️ Databases: MongoDB / SQL (based on your setup)<br>- 🤖 AI/ML: Machine Learning Basics, Recommendation Systems, Agentic AI (Exploring)<br>- 🔌 APIs & Scraping: Adzuna API, Apify, REST APIs<br>- ☁️ Deployment: Render<br>- 🧰 Tools: Git, GitHub, VS Code
+<!-- 🔥 Animated Header -->
 
+<h1 align="center">Hey 👋, I'm Shambhu</h1>
+<h3 align="center">🚀 AI Builder | Full-Stack Developer | Problem Solver</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/whoissh4mu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shambhu-thakur-518135328) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shambhuthakur0707&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shambhuthakur0707&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shambhuthakur0707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shambhuthakur0707&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AIIntern+%F0%9F%A7%A0;Agentic+AI+Enthusiast+%F0%9F%94%A5;Full-Stack+Developer+%F0%9F%92%BB;Turning+Ideas+into+Reality+%E2%9A%A1" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shambhuthakur0707&icon=10&color=0)](https://visitcount.itsvg.in)
+
+# 💫 About Me:
+
+🚀 Building **AIIntern** — an agentic AI-powered internship recommendation system
+🤝 Open to collaborate on **AI/ML + Full-Stack projects**
+🧠 Exploring **Agentic AI, System Design & Scalable Architectures**
+📚 Currently learning **Machine Learning & Production AI Systems**
+💬 Ask me about **APIs, Web Scraping, AI Projects & Backend Systems**
+⚡ Fun fact: *I don’t just learn tech — I build things that actually solve problems*
+
+---
+
+# 🚀 Featured Project
+
+## 🧠 AIIntern — Internship Recommendation System
+
+> An AI-powered platform that discovers internships, matches candidates, and generates personalized learning roadmaps.
+
+✨ Features:
+
+* 🔍 Internship scraping (Adzuna + Apify)
+* 🤖 AI-based recommendation engine
+* 📊 Skill-gap analysis + roadmap generation
+* 🌐 Full-stack architecture (Frontend + Backend deployed)
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+
+### 🌐 Development
+
+![React](https://img.shields.io/badge/react-%2300D8FF.svg?style=for-the-badge\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge\&logo=express\&logoColor=white)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🤖 AI / Data
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+### ☁️ Deployment & Tools
+
+![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge\&logo=render\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.instagram.com/whoissh4mu" target="blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/shambhu-thakur-518135328" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shambhuthakur0707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=shambhuthakur0707&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambhuthakur0707&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=shambhuthakur0707\&theme=tokyonight\&no-frame=true\&row=1\&column=6)
+
+---
+
+# 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=shambhuthakur0707\&icon=5\&color=0)
+
+---
+
+<!-- 🔥 Ending Note -->
+
+<h3 align="center">⚡ Building the future with AI, one project at a time</h3>
